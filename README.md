@@ -2,7 +2,7 @@
 
 ## 1. About the project
 <p>The project is about a terminal-based battle between two robots using ANSI characters. The game can be played with either two participants or just one, where the opponent is the computer.</p>
-<p>The game was developed as an assessment for the admission process at <span translate="no">Jala University</span>.</p>
+<p>The game was developed as an assessment for the admission process at Jala University.</p>
 
 ## 2. Clone the project
 Open your terminal, choose the folder of your preference, and paste the following command to clone this repository:
